@@ -1,0 +1,41 @@
+@media (max-width: 767px) {
+  .fa-home {
+    font-size: 5em;
+  }
+  .fa-bookmark {
+    margin-top: -50% !important;
+  }
+}
+@media (max-width: 991px) {
+  .fa-bookmark {
+    margin-top: -0.5em !important;
+    margin-left: 2.5em !important;
+  }
+}
+
+.hrDiv {
+  text-align: center;
+}
+
+span {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.outer-line {
+  width: 40%;
+  border-bottom: 0.2em solid grey;
+}
+
+.large-fontsize {
+  font-size: 4em !important;
+}
+
+.Sectionpaddings {
+  padding-left: 8em;
+  padding-right: 8em;
+}
+
+footer section {
+  background-color: #0059df;
+}

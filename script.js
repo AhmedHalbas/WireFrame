@@ -1,0 +1,3 @@
+function createad() {
+  console.log();
+}
